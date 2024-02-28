@@ -14,7 +14,7 @@
   }
   
   .registro-form {
-    display: flex;
+    display: block;
     flex-direction: column;
   }
   
